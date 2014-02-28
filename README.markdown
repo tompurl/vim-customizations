@@ -1,3 +1,5 @@
+# Tom Purl's Vim Modifications
+
 This folder contains a collection of shortcuts and other small modifications
 that I have made to my Vim configuration.
 
